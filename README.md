@@ -15,7 +15,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <p align="center">
 <a href="https://github.com/ErikIetoCorebiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ErikIetoCorebiz&count_private=true&show_icons=true"/>
-    <p align="left">
+    <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikIetoCorebiz&layout=compact&langs_count=8"/>
     </p>
 </a>
