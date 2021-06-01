@@ -1,3 +1,5 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ErikIetoCorebiz&repo=ErikIetoCorebiz&countColorcountColor)
+
 <h1 align="center">Hi 👋, I'm @ErikIetoCorebiz</h1>
 <h2 align="center"> ⚡ Squad BIT</h2>
 <h4 align="center">💻I´m a Web Developer - Front-end Trainee</h4>
