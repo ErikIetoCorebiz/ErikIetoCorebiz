@@ -5,7 +5,7 @@
     <img alt="cover-page" title="Erik Ieto" src=".github/erikieto.gif" width="50%" />
 </h1>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ErikIetoCorebiz/ErikIetoCorebiz/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](.github/github-user-contribution.svg)
 
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ErikIetoCorebiz)
