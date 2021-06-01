@@ -4,15 +4,16 @@
 <h1 align="center">
     <img alt="cover-page" title="Erik Ieto" src=".github/erikieto.gif" width="50%" />
 </h1>
-<p align="center">
+
 ![github contribution grid snake animation](.github/github-user-contribution.svg) 
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-    </p>
+   
 
 <p align="center">
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ErikIetoCorebiz)
+<img src= "https://github-readme-streak-stats.herokuapp.com/?user=ErikIetoCorebiz"/>
     </p>
+    
 
 <p align="center">
 <a href="https://github.com/ErikIetoCorebiz">
