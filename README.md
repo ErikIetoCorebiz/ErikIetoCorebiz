@@ -7,7 +7,6 @@
 
 ![github contribution grid snake animation](.github/github-user-contribution.svg) 
 
-
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
