@@ -9,8 +9,6 @@
 <img src= ".github/github-user-contribution.svg" />
 </p>
 
-<h4 align="center"> _generated with [Platane/snk](https://github.com/Platane/snk_</h4>
-   
 
 <p align="center">
 <img src= "https://github-readme-streak-stats.herokuapp.com/?user=ErikIetoCorebiz"/>
@@ -36,5 +34,6 @@
 <a href="https://www.behance.net/https://www.behance.net/erikieto" title= "Behance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/erikieto" height="30" width="40" /></a>
 <a href="https://discord.gg/Erik Ieto#1363" title= "Discord" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Erik Ieto#1363" height="30" width="40" /></a>
 <a href="mailto:erik.ieto@corebiz.ag" title= "Gmail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Erik Ieto#1363" height="30" width="40" /></a>
-
 </p>
+
+#### _References: [Snake animation](https://github.com/Platane/snk)
