@@ -2,7 +2,7 @@
 <h2 align="center"> ⚡ Squad BIT</h2>
 <h4 align="center">💻I´m a Web Developer - Front-end Trainee</h4>
 <h1 align="center">
-    <img alt="cover-page" title="Erik Ieto" src="github/erikieto.gif" width="50%" />
+    <img alt="cover-page" title="Erik Ieto" src=".github/erikieto.gif" width="50%" />
 </h1>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ErikIetoCorebiz/ErikIetoCorebiz/output/github-contribution-grid-snake.svg)
