@@ -7,11 +7,9 @@
 
 <p align="center">
 <img src= ".github/github-user-contribution.svg" />
-    
-    <a href="_generated with [Platane/snk](https://github.com/Platane/snk_" />
-    </p>
+</p>
 
-
+<a href="_generated with [Platane/snk](https://github.com/Platane/snk_" />
    
 
 <p align="center">
