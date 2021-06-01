@@ -36,4 +36,4 @@
 <a href="mailto:erik.ieto@corebiz.ag" title= "Gmail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Erik Ieto#1363" height="30" width="40" /></a>
 </p>
 
-#### _References: [Snake animation](https://github.com/Platane/snk)
+#### _References: [Snake animation](https://github.com/Platane/snk)_
