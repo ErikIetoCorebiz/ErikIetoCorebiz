@@ -1,5 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ErikIetoCorebiz&repo=ErikIetoCorebiz&countColorcountColor)
-
 <h1 align="center">Hi 👋, I'm @ErikIetoCorebiz</h1>
 <h2 align="center"> ⚡ Squad BIT</h2>
 <h4 align="center">💻I´m a Web Developer - Front-end Trainee</h4>
@@ -38,4 +36,9 @@
 <a href="mailto:erik.ieto@corebiz.ag" title= "Gmail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Erik Ieto#1363" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ErikIetoCorebiz&repo=ErikIetoCorebiz&countColorcountColor" />
+</p>
+
 #### _References: [Snake animation](https://github.com/Platane/snk)_
+
