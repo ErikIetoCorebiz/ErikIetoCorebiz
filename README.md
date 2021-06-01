@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm @ErikIetoCorebiz</h1>
-<h2 align="center"> ⚡ Squad BIT</h2>
-<h4 align="center">💻I´m a Web Developer - Front-end Trainee</h4>
-<h1 align="center">
+<h1 align="left">Hi 👋, I'm @ErikIetoCorebiz</h1>
+<h2 align="left"> ⚡ Squad BIT</h2>
+<h4 align="left">💻I´m a Web Developer - Front-end Trainee</h4>
+<h1 align="left">
     <img alt="cover-page" title="Erik Ieto" src=".github/erikieto.gif" width="50%" />
 </h1>
 
