@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @ErikIetoCorebiz</h1>
+<h1 align="center">Hi 👋, I'm Erik Ieto</h1>
 <h2 align="center"> ⚡ Squad BIT</h2>
 <h4 align="center">💻I´m a Web Developer - Front-end Trainee</h4>
 <h1 align="center">
