@@ -5,9 +5,9 @@
     <img alt="cover-page" title="Erik Ieto" src=".github/erikieto.gif" width="50%" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
 <img src= ".github/github-user-contribution.svg" />
-</p>
+</p> -->
 
 
 <!-- <p align="center">
