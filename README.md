@@ -5,24 +5,24 @@
     <img alt="cover-page" title="Erik Ieto" src=".github/erikieto.gif" width="50%" />
 </h1>
 
-<!-- <p align="center">
-<img src= ".github/github-user-contribution.svg" />
-</p> -->
-
-
 <p align="center">
+<img src= ".github/github-user-contribution.svg" />
+</p>
+
+
+<!-- <p align="center">
 <img src= "https://github-readme-streak-stats.herokuapp.com/?user=ErikIetoCorebiz"/>
     </p>
-    
+     -->
 
-<!-- <p align="center">
+<p align="center">
 <a href="https://github.com/ErikIetoCorebiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ErikIetoCorebiz&count_private=true&show_icons=true"/>
     <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikIetoCorebiz&layout=compact&langs_count=8"/>
     </p>
 </a>
-</p> -->
+</p>
 
 
 <h3 align="center">Connect with me:</h3>
